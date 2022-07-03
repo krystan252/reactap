@@ -1,0 +1,69 @@
+input{
+    position: absolute;
+
+}
+
+button{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 42px;
+    background-color: rgba(240, 248, 255, 0);
+    font-size: 20px;
+}
+
+.button:hover {
+    color: gold;
+}
+
+.p10{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+
+.p20{
+    margin-top: 0px;
+    font-size: small;
+    padding-left: 20px;
+}
+
+.p30{
+    position: absolute;
+    width: 160px;
+    margin-left: 190px;
+    bottom: 20px;
+
+}
+
+.p40{
+    position: absolute;
+    margin-left: 360px;
+    bottom: 60px;
+    font-size: 20px;
+}
+
+.p50{
+    position: absolute;
+    margin-left: 360px;
+    bottom: 20px;
+}
+.tr1{
+    width: 2px;
+    background-color: #fff;
+    height: 120px;
+    position: absolute;
+    left: 180px;
+    bottom: 15px;
+}
+
+.tr2{
+    width: 2px;
+    background-color: #fff;
+    height: 120px;
+    position: absolute;
+    left: 350px;
+    bottom: 15px;
+    
+}
+
